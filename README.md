@@ -23,12 +23,6 @@
 **기록**
 - 프로젝트 기록, 에이전트 지침, 논문 읽는 방법을 Obsidian에 정리한다. 출처의 주장과 내 해석, 가설은 나눠 적는다.
 
-## 일하는 방식
-
-- "돌아갔다"와 "맞았다"를 구분한다.
-- 가정, 단위, 조건을 먼저 적는다.
-- 같은 수작업이 반복될 때만 스크립트로 만든다.
-
 ## 쓰는 도구
 
 Python (NumPy, SciPy, scikit-fem, PyTorch) · Gmsh · CalculiX · Claude Code · Codex CLI · Obsidian · Git
